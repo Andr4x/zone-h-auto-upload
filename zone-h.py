@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Tool By Andr4x
+#Tool By Dr3xey
 import os
 
 os.system("cls||clear")
@@ -10,7 +10,7 @@ ________  _   _ _____      _   _
   / / | | |  \| |  _| _____| |_| |
  / /| |_| | |\  | |__|_____|  _  |
 /____\___/|_| \_|_____|    |_| |_|
-Tool Created By Andr4x
+Tool Created By Dr3xey
 """)
 
 try:
